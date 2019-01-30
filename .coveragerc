@@ -1,0 +1,3 @@
+[run]
+source = my_cool_pyramid
+omit = my_cool_pyramid/test*
