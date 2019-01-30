@@ -1,1 +1,1 @@
-pserve development.ini
+web: env/bin/pserve development.ini
