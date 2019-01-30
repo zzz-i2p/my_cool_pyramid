@@ -1,1 +1,1 @@
-web: env/bin/pserve development.ini
+web:/app/.heroku/python/bin/pserve production.ini
