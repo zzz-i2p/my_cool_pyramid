@@ -13,7 +13,7 @@ hupper==1.4.2
 idna==2.8
 Jinja2==2.10
 jinja2-time==0.2.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 more-itertools==5.0.0
 -e git+https://github.com/zzz-i2p/my_cool_pyramid.git@2235b0ddcf3b59828306940f84fe0b1f6373b24d#egg=my_cool_pyramid
